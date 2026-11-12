@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2c62d6db-2fb3-4675-83b7-923aa66d8c23",
+    "title": "Backend CRUD geliştirme",
+    "description": "TaskFlow endpointlerini tamamla",
+    "priority": "medium",
+    "status": "in-progress",
+    "assignee": "Ali",
+    "dueDate": "2026-11-12",
+    "createdAt": "2026-11-11T15:10:04.865Z",
+    "updatedAt": "2026-11-11T15:17:35.492Z"
+  },
+  {
+    "id": "71814d19-3c24-4652-94a2-88e876618304",
+    "title": "Web uygulaması geliştirme",
+    "description": "React.js kütüphanesiyle bir web tasarımı çalışması",
+    "priority": "medium",
+    "status": "todo",
+    "assignee": "Ahmet",
+    "dueDate": "2026-11-16",
+    "createdAt": "2026-11-11T15:11:02.026Z",
+    "updatedAt": "2026-11-11T15:11:02.026Z"
+  },
+  {
+    "id": "af746fd6-32fa-41d8-911c-e7c367292cdc",
+    "title": "Backend API Documentation - Updated",
+    "description": "Prepare REST API documentation and review endpoints.",
+    "priority": "medium",
+    "status": "in-progress",
+    "assignee": "Test User",
+    "dueDate": "2026-11-15",
+    "createdAt": "2026-11-11T21:31:35.830Z",
+    "updatedAt": "2026-11-11T21:34:07.750Z"
+  }
+]

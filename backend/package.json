@@ -1,0 +1,22 @@
+{
+  "name": "taskflow-backend",
+  "version": "1.0.0",
+  "description": "TaskFlow REST API for task management",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js"    
+  },
+  "keywords": [
+    "task-management",
+    "rest-api",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
